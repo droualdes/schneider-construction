@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding-t",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"f",
+				"font-variant"
+			],
+			[
+				"ios",
+				"ios-app"
+			],
+			[
+				"20px",
+				"200px"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"pho",
+				"photobreak-3"
+			],
+			[
+				"phot",
+				"photobreak-2"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"img-",
+				"img-thumbnail"
+			],
+			[
+				"pddin",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bower_components/bootstrap/dist/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 3111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5536,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davidp/Sites/schneiderconstructionsf2/bower_components/bootstrap/dist/css/custom.css",
+		"/Users/davidp/Sites/schneiderconstructionsf2/index.html",
+		"/Users/davidp/Sites/schneiderconstructionsf2/bower_components/nivo-slider/jquery.nivo.slider.js",
+		"/Users/davidp/Sites/schneiderconstructionsf2/schneiderconstructionsf.sublime-project",
+		"/Users/davidp/Sites/schneiderconstructionsf2/bower_components/nivo-slider/themes/default/default.css",
+		"/Users/davidp/Sites/subledger/bower_components/bootstrap/dist/css/custom.css",
+		"/Users/davidp/Sites/subledger/index.html",
+		"/Users/davidp/Sites/schneiderconstructionsf2/snippets.txt",
+		"/Users/davidp/Sites/schneiderconstructionsf2/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/Users/davidp/Sites/schneiderconstructionsf2/bower_components/bootstrap/README.md",
+		"/Users/davidp/Sites/subledger/.git/COMMIT_EDITMSG",
+		"/Users/davidp/Sites/schneiderconstructionsf2/index2.html",
+		"/Users/davidp/Sites/schneiderconstructionsf/css/screen.css",
+		"/Users/davidp/Sites/schneiderconstructionsf2/css/nivo-slider/style.css",
+		"/Users/davidp/Sites/schneiderconstructionsf2/css/nivo-slider/nivo-slider.css",
+		"/Users/davidp/Sites/schneiderconstructionsf2/css/screen.css",
+		"/Users/davidp/Sites/schneiderconstructionsf2/transition-bar.ai",
+		"/Users/davidp/Sites/schneiderconstructionsf2/css/nivo-slider/light/light.css",
+		"/Users/davidp/Sites/subledger/blog/index.html",
+		"/Users/davidp/Sites/subledger/docs/index.html",
+		"/Users/davidp/Sites/subledger/docs/apikey/index.html",
+		"/Users/davidp/Sites/subledger/test.html",
+		"/Users/davidp/Sites/subledger/css/custom.css",
+		"/Users/davidp/Sites/subledger/css/bootstrap.css",
+		"/Users/davidp/Sites/test/css/main.css",
+		"/Applications/ScanSnap Manual.localized/iX500ScanSnapManual.app/Contents/Resources/manual/basic/EN/ix500/top_basic.html",
+		"/Users/davidp/Sites/test/css/scss/_bootstrap.scss",
+		"/Users/davidp/Sites/bootstrap-sass-3.3.6/assets/stylesheets/_bootstrap.scss",
+		"/Users/davidp/Sites/bootstrap-sass-3.3.6/LICENSE",
+		"/Users/davidp/Sites/virtualtuneup/Copywriting.txt",
+		"/Users/davidp/Downloads/bootstrap-sass-3.3.6/assets/stylesheets/_bootstrap-sprockets.scss",
+		"/Users/davidp/Desktop/VTO Intro Text",
+		"/Users/davidp/Desktop/Virtual Tune Up Intro Text",
+		"/Users/davidp/Sites/subledger/bower_components/jquery/src/css.js",
+		"/Users/davidp/Sites/subledger/snippets.txt",
+		"/Users/davidp/Sites/subledger/docs/apikey.html",
+		"/Users/davidp/Sites/subledger/qa/index.html",
+		"/Users/davidp/Sites/subledger/images/icon-billing.svg",
+		"/Users/davidp/Sites/subledger/images/icon-billing.ai",
+		"/Users/davidp/Sites/subledger/instructions/index.html",
+		"/Users/davidp/Sites/subledger/css/font-awesome.min.css",
+		"/Users/davidp/Sites/subledger/css/bootstrap.css.map",
+		"/Users/davidp/Sites/subledger/images/icon-developers.svg",
+		"/Users/davidp/Sites/subledger/images/subledger-nav-logo-blue.ai",
+		"/Users/davidp/Sites/subledger/js/bootstrap.js",
+		"/Users/davidp/Sites/subledger/instructions.html",
+		"/Users/davidp/Sites/subledger/images/subledger-logo.svg",
+		"/Users/davidp/Sites/subledger/images/01.jpg",
+		"/Users/davidp/Sites/subledger/css/bootstrap-theme.css",
+		"/Users/davidp/Sites/subledger/css/animate.css",
+		"/Users/davidp/Sites/subledger/carousel-new.html",
+		"/Users/davidp/Sites/subledger/carousel-old.html",
+		"/Users/davidp/Sites/subledger/images/screenshot-1-02.png",
+		"/Users/davidp/Sites/subledger/orig.html",
+		"/Users/davidp/Sites/subledger/Orig-Carousel.html",
+		"/Users/davidp/Sites/subledger/carousel-test.html",
+		"/Users/davidp/Sites/virtualtuneup/index.html",
+		"/Users/davidp/Sites/subledger/js/libs.min.js",
+		"/Users/davidp/Sites/subledger/js/scripts.js",
+		"/Users/davidp/Sites/virtualtuneup/css/custom.css",
+		"/Users/davidp/Sites/virtualtuneup/font-awesome.css",
+		"/Users/davidp/Sites/virtualtuneup/css/animate.css",
+		"/Users/davidp/Sites/virtualtuneup/css/vtu-theme.css",
+		"/Users/davidp/Sites/virtualtuneup/SNIPPET SAMPLES",
+		"/Users/davidp/Sites/virtualtuneup/css/bootstrap-theme.css",
+		"/Users/davidp/Sites/virtualtuneup/css/bootstrap.css",
+		"/Users/davidp/Library/Safari/Bookmarks.plist",
+		"/Users/davidp/Sites/virtualtuneup/css/unused/bootstrap.css",
+		"/Users/davidp/Sites/virtualtuneup/copywritten text",
+		"/Users/davidp/Sites/subledger/css/custom-theme.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/davidp/Sites/subledger/blog",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"less",
+			"slider",
+			"theme-light",
+			"wrapper",
+			"body",
+			"height",
+			"body",
+			"carousel.less",
+			"footer",
+			"type=\"text/javascript\" ",
+			"font-size",
+			"font",
+			"font-size: 14pt;",
+			" Blog Entry",
+			"/css/images/subledger-logo-plus.svg",
+			"npm.js",
+			"p {",
+			"img.img-responsive",
+			" img-padding",
+			"img-padding",
+			"seller",
+			"img",
+			"Test1",
+			"text",
+			"\"text\"",
+			"mac-",
+			"fluid",
+			"<",
+			"<h3 class=\"text-center\">",
+			"table",
+			"h2",
+			"@",
+			"vertical",
+			"pagination-centered",
+			"@",
+			"iphone",
+			"margin-bottom",
+			"img",
+			"btn",
+			"btn-defa",
+			"mac-",
+			"author",
+			"Here are some of the key features",
+			"author",
+			"blockq",
+			"block",
+			"instructions",
+			"bold",
+			"\"bold\"",
+			"screen",
+			"@media",
+			"@medida",
+			"rwd",
+			"rwd-l",
+			"v-spacer-50",
+			"pre",
+			"code",
+			"pre",
+			"&lt;",
+			"tab-size",
+			"padding",
+			"spacer",
+			"nowrap",
+			"code",
+			"terminal",
+			"img-circle ",
+			"beta",
+			"span",
+			"table",
+			".row",
+			"row-fluid",
+			"container",
+			"display: flex;",
+			"container",
+			"col-sm-offset-1",
+			"iphone",
+			"strong",
+			"placehold.it/50x50",
+			".right",
+			"right",
+			"hanging-punctuation",
+			"blockquote",
+			"col-md-6",
+			"row",
+			"table",
+			"columns",
+			"grid-column-ordering",
+			"clearfix",
+			"dd",
+			"clearfix:before",
+			"container:after",
+			"clearfix",
+			"clear",
+			"clear: both",
+			"position: relative",
+			".row",
+			"row",
+			"md",
+			"qa",
+			"height",
+			"width",
+			"-square",
+			"team/",
+			"navbar",
+			"nav-bar-static",
+			"nav-bar",
+			"bottom",
+			"img",
+			"bottom",
+			"btn",
+			"					</",
+			"<btn",
+			"quote",
+			"color:",
+			"border:",
+			"features",
+			"hidden",
+			"padding-right",
+			"/*!",
+			"hidden",
+			"62.5%",
+			"0px",
+			"spin",
+			".icon-spin;",
+			"src=\"images/",
+			"img-",
+			"img-vertical",
+			"vertical"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"../js/",
+			"\"../images/",
+			"\"../css/",
+			"https://use.typekit",
+			" -->",
+			"<!-- ",
+			"<!--",
+			" ",
+			" XXX ",
+			"<!-- * * * ",
+			"* * * ",
+			"***",
+			"h3",
+			"fh3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bower_components/bootstrap/dist/css/custom.css",
+					"settings":
+					{
+						"buffer_size": 3111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1461,
+								1677
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 5536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1320,
+								1320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.html",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/davidp/Sites/virtualtuneup/virtualtuneup.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}

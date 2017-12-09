@@ -1,0 +1,169 @@
+/*=======================*/
+/*=== Common Elements ===*/
+/*=======================*/
+
+html {
+height: 100%;
+}
+body {
+height: 100%;
+font-family: "myriad-pro-condensed", Helvetica, Arial, sans-serif;
+font-weight: 500;
+color: #817d72;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;
+margin: auto;
+background: url('/images/dark-brown-background.jpg') repeat;
+}
+h1 {
+font-size: 1.5em;
+font-weight: 900;
+line-height: 120%;
+position:absolute;
+left:-9999px;
+}
+h2 {
+font-weight: 900;
+line-height: 100%;
+margin: 50px 0 50px 0;
+}
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+h2 {
+	font-size: 3.6em;}
+}
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+h2 {
+	font-size: 5em;}
+}
+h3 {
+font-size: 1.7em;
+font-weight: 700;
+line-height: 110%;
+margin-top: 15px;
+}
+h4 {
+font-size: 1.375em;
+font-weight: 900;
+line-height: 120%;
+margin: 0 0 .5em 0;
+}
+h5 {
+font-size: 2.5em;
+font-weight: 900;
+line-height: 120%;
+margin: 0 0 .5em 0;
+}
+h6 {
+font-size: .5em;
+font-weight: 500;
+margin: 0 0 .5em 0;
+}
+p {
+font-size: 1.2em;
+}
+a, a:visited {
+color: #448ccb;
+text-decoration: none;
+}
+a:hover, a:active {
+color: #448ccb;
+text-decoration: none;
+}
+.ampersand {
+font-family: "lobster", Helvetica, Arial, sans-serif;
+font-weight: 400;
+}
+.small {
+font-size: .875em;
+padding-top: 50px;
+}
+.script {
+font-family: "lobster", Helvetica, Arial, sans-serif;
+font-size: 2em;
+line-height: 110%;
+margin: .125em 0 .125em 0;
+}
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+.script {
+	font-size: 1.3em;}
+}
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+.script {
+	font-size: 2em;}
+}
+.icons {
+padding-top: 15px;
+}
+.middle {
+padding-top: 10px;
+padding-bottom: 20px;
+}
+
+/*===================*/
+/*=== Nivo Slider ===*/
+/*===================*/
+
+.theme-light.slider-wrapper { /* Remove if I ever figure out sizing issue */
+width: 364px;
+}
+div.nivo-controlNav { /* Remove if I ever figure out sizing issue */
+margin: 4px 0 4px 0;
+}
+.theme-light.slider-wrapper {
+width: 344px;
+max-width: 100%;
+margin: 0 auto;
+box-shadow: 0px 1px 5px 0px #4a4a4a;
+-webkit-box-shadow: 0px 1px 5px 0px #4a4a4a;
+-moz-box-shadow: 0px 1px 5px 0px #4a4a4a;
+}
+
+/*==============*/
+/*=== Global ===*/
+/*==============*/
+
+div.logo {
+margin-top: 30px;
+margin-bottom: 50px;
+}
+.logo {
+background: url('/images/sc-logo.png') center no-repeat;
+width: 200px;
+height: 90px;
+margin: 0 auto;
+}
+.light {
+background: #e5e4dc;
+}
+.dark {
+color: #e5e4dc;
+background: url('/images/dark-brown-background.jpg') repeat;
+}
+.med {
+color: #534741;
+background: url('/images/med-brown-background.jpg') repeat;
+}
+.transition-light-brown-dark-brown {
+height: 31px;
+background: url('/images/light-brown-dark-brown.jpg') bottom repeat-x;
+}
+.transition-dark-brown-med-brown {
+height: 31px;
+background: url('/images/dark-brown-med-brown.jpg') bottom repeat-x;
+}
+.transition-med-brown-dark-brown {
+height: 31px;
+background: url('/images/med-brown-dark-brown.jpg') bottom repeat-x;
+}
+footer {
+padding-bottom: 50px;
+}
+footer p {
+font-size: 1.25em;
+color: #e5e4dc;
+line-height: 190%;
+}
